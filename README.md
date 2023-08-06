@@ -12,26 +12,39 @@ This is an amazon web automation project in Selenium and java. In these project,
 
 <h3> Program Class- <h3>
 
-![Program Class]![Program](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/cc55df87-7c64-47f3-8d40-ce4bf1772ead)
+![Program](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/8fa49c86-d3c4-434e-9ce9-8f99a1194433)
+
+
 
 
 <h3> POM- <h3>
 
-![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/c2e9cad1-337e-4796-94be-b1e6a2461633)
+![POM File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/4287d5f8-e473-485d-bd38-f9dd63b72bd3)
 
 <h3> TestNG- <h3>
 
- ![TentNG File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/72842ff9-080d-46d9-b833-f20b06ea91d8)
+ ![TestNG File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/7af8e30d-5ed9-4d9e-9f6e-a9b96dfad246)
 
 
-<h3> Console- <h3>
+<h3> Allure Report Overview- <h3>
 
- ![Console File](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/8771c23f-ed78-41bb-8ce0-f8d9ae366d06)
+![Allure Report](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/6e4b4704-5554-49d0-855f-5174c89b645d)
 
 
-<h3> Results of runnig suite- <h3>
+<h3> Allure Report Categories- <h3>
 
-![Result of running suite](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-amazon/assets/122052172/69d6a212-8d03-433a-9ebf-eb56e2de916b)
+![Allure Categories](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/fba0849d-4072-439d-b939-38c5c942f554)
+
+
+<h3> Allure Report Suits- <h3>
+
+![Allure Suites](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/0f50dd71-2568-4e71-a826-a026acff8a5b)
+
+
+<h3> Allure Report Behaviors- <h3>
+
+![Allure Report](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/6e4b4704-5554-49d0-855f-5174c89b645d)
+
 
 
 <h2>🚀 Features</h2>

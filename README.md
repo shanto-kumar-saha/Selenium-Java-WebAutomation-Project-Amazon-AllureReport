@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is an amazon web automation project in Selenium and java. In these project, I have used different types of Test Annotations methods and executed multiple Tests with Allure Report. </p>
+This is an Amazon web automation project in Selenium and java. In these project, I have used different types of Test Annotations methods and executed multiple Tests with Allure Report. </p>
 
 <h2>📸 Project Screenshots</h2>
 

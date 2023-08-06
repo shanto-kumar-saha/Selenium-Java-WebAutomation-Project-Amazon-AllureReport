@@ -52,7 +52,7 @@ Here're some of the project's best features:
 
 *    Test Annotations
 *    Test Cases
-*    Allure Reports (Overview, Categories, Suits, Behaviors
+*    Allure Reports (Overview, Categories, Suits, Behaviors etc.)
 *    Page Object Model (POM) design pattern
 
 <h2>🛠️ Installation Steps</h2>

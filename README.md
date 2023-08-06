@@ -4,7 +4,7 @@
 
 
 <h2>📝 Description</h2> 
-This is an amazon web automation project in Selenium and java. In these project, I have used different methods and executed multiple tests. </p>
+This is an amazon web automation project in Selenium and java. In these project, I have used different types of annotations, methods and executed multiple tests with allure Report. </p>
 
 <h2>📸 Project Screenshots</h2>
 
@@ -13,7 +13,6 @@ This is an amazon web automation project in Selenium and java. In these project,
 <h3> Program Class- <h3>
 
 ![Program](https://github.com/shantokumarsaha123/Selenium-Java-WebAutomation-Testing-Amazon/assets/122052172/8fa49c86-d3c4-434e-9ce9-8f99a1194433)
-
 
 
 
@@ -51,7 +50,10 @@ This is an amazon web automation project in Selenium and java. In these project,
 
 Here're some of the project's best features:
 
-*   Page Object Model (POM) design pattern
+*    Test Annotations
+*    Test Cases
+*    Allure Reports (Overview, Categories, Suits, Behaviors
+*    Page Object Model (POM) design pattern
 
 <h2>🛠️ Installation Steps</h2>
 

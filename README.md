@@ -75,3 +75,4 @@ Technologies used in the project:
 *   Selenium
 *   TestNG
 *   Maven
+*   Allure
